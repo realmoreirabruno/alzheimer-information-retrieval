@@ -1,0 +1,7 @@
+numpy<2.0.0
+pandas<2.2.0
+ir_datasets
+pyserini
+pytrec_eval
+sentence-transformers
+tqdm

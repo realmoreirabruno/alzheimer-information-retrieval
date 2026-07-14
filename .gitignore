@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+openjdk.jdk
+
+# dados baixados e artefatos gerados pelo pipeline (regeneráveis via codigo.py)
+corpus_dir/
+indexes/
+artigo/
+trec2021_queries.csv
+trec2021_qrels.csv
+fase2_bm25_top100_candidatos.csv
+fase3_rm3_top100_candidatos.csv
+fase4_final_reranked.csv
+fase5_alzheimer_bm25_top100.csv
+fase5_alzheimer_bm25rm3_top100.csv
+fase5_alzheimer_reranked.csv
